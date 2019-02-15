@@ -67,6 +67,8 @@
 
 **Machine Learning for Hackers**. Drew Conway and John Myles White. oreilly,2012
 
+**Foundations of Machine Learning**. Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.MIT,2012
+
 **统计学习方法**. 李航. 清华大学出版社,2012
 
 **推荐系统实践**. 项亮. 人民邮电出版社,2012
@@ -107,6 +109,8 @@
 
 **All of Statistics A Concise Course in Statistical Inference**. Larry Wasserman. Springer
 
+**The Top Ten Algorithms in Data Mining**
+
 **机器学习-Mitchell-中文-清晰版**
 
 **机器学习实战_中文版**  [相关资源](https://github.com/YSZYCF/Machine-Learning-Book-Resource/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98)
@@ -114,6 +118,7 @@
 **数据挖掘**
 
 **TensorFlow 官方文档中文版 - v1.2**
+
 
 ## ps ##
 
